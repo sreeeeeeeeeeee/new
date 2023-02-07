@@ -5,9 +5,7 @@ __Advertisement :)__
   resize in browser.
 - __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
   i18n with plurals support and easy syntax.
-
 You will like those projects!
-
 ---
 
 # h1 Heading 8-)
@@ -17,13 +15,3 @@ You will like those projects!
 ##### h5 Heading
 ###### h6 Heading
 
-
-
-# new
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
